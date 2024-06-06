@@ -1,0 +1,1 @@
+Long Short-Term Memory (LSTM) networks are a type of recurrent neural network (RNN) particularly well-suited for text analysis due to their ability to remember long-term dependencies and manage sequence data effectively. 
